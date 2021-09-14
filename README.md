@@ -3,10 +3,10 @@ Never forget to activate your companion skill again, this mod will use the skill
 
 # How To Use
 1. Summon companion
-2. use companion skill 1 time with manually
-3. then next time it automatically use companion skill
+2. Use companion skill 1 time with manually
+3. Then next time it automatically use companion skill
 
-** if change char or relog or Summon other companion let use companion skill 1 time with manually again
+** if (Change Char or Relog or Summon Other Companion) let use companion skill 1 time with manually again
 
 # Opcode for EU
 How to Add Opcode
