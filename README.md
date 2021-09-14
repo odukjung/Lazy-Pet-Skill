@@ -8,4 +8,4 @@ Link : https://github.com/odukjung/Tera-Def-Op-code
 
 **MS : Salchy
 
-**Edit : odukjung
+**Editer : odukjung
