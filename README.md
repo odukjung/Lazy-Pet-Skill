@@ -4,3 +4,6 @@ Never forget to activate your companion skill again, this mod will use the skill
 # Opcode for EU
 How to Add Opcode
 Link : https://github.com/odukjung/Tera-Def-Op-code
+
+MS : Salchy
+Edit : odukjung
