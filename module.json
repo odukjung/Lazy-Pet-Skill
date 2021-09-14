@@ -1,13 +1,13 @@
 {
     "author": "<font color='#00FFFF'>Salchy</font>",
-    "description": "Salchy Auto Pet Skill",
+    "description": "Lazy Pet Skill",
     "disableAutoUpdate": true,
     "disabled": false,
     "donationUrl": "",
-    "name": "salchypetskill",
+    "name": "lazypetskill",
     "options": {
-        "niceName": "<font color='#FDD017'>Salchy Auto Pet Skill</font>",
-        "guiName": "<font color='#FDD017'>Salchy Auto Pet Skill</font>",
+        "niceName": "<font color='#FDD017'>Lazy Pet Skill</font>",
+        "guiName": "<font color='#FDD017'>Lazy Pet Skill</font>",
         "reloadable": true		
 	},
     "servers": [""],
