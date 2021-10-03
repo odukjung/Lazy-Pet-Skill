@@ -1,6 +1,8 @@
 # Lazy-Pet-Skill
 Never forget to activate your companion skill again, this mod will use the skill for you (you need to use it once manually first and then the mod will keep the buff up automatically).
 
+** MOD isn't Auto-Update plz manual update 
+
 # How To Use
 1. Summon companion
 2. Use companion skill 1 time with manually
